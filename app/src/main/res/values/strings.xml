@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Api Login</string>
+    <string name="main_login">Login</string>
+    <string name="btn_login">Login</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="main_type_register">Register</string>
+    <string name="main_type_login">Login</string>
+    <string name="main_error_server">Erron la peticion</string>
+    <string name="btn_creat">Create user</string>
+    <string name="creat_activity">Creat User</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_job">Job</string>
+    <string name="tv_id_label">ID:</string>
+    <string name="tv_name_label">Name:</string>
+    <string name="tv_job_label">Job:</string>
+    <string name="tv_date_label">Created At:</string>
+    <string name="error_save_user">Error al guardar usuario</string>
+    <string name="success_save_user">Guardado con exito</string>
+</resources>
